@@ -1,0 +1,5 @@
+num_preg,glucose_conc,diastolic_bp,thickness,insulin,bmi,diab_pred,age,skin,diabetes
+1,89,66,23,94,28.1,0.167,21,0.9062,FALSE
+2,197,70,45,543,30.5,0.158,53,1.773,TRUE
+7,100,0,0,0,30,0.484,32,0,TRUE
+1,103,30,38,83,43.3,0.183,33,1.4972,FALSE
